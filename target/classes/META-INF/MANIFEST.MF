@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Implementation-Title: Vert.x - HTTP
+Implementation-Version: 1-SNAPSHOT
+Java-Version: 1.8
+Built-By: gbatra
+Scm-Connection: scm:git:git@github.com:jboss/jboss-parent-pom.git/http
+ -vertx
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: x86_64
+Specification-Title: Vert.x - HTTP
+Implementation-Vendor-Id: io.openshift.booster
+Java-Vendor: Oracle Corporation
+Os-Name: Mac OS X
+Scm-Url: http://github.com/jboss/jboss-parent-pom/http-vertx
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 10.12.6
+Scm-Revision: 
+Build-Jdk: 1.8.0_121
+Specification-Version: 1.0
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://www.jboss.org/http-vertx
+
